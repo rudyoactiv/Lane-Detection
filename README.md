@@ -1,0 +1,1 @@
+A Lane Detection Pipeline developed in conjunction with my teammates to identify, detect, and overlay on road lanes using computer vision techniques and application of CNNs to develop a system for self driving and autonomous cars.
